@@ -63,7 +63,7 @@
         }
     ],
     "api_keys": {
-        "myitem": "",
+        "myitem": ""
     },
     "database": "sqlite:///cloudbot.db",
     "plugin_loading": {
